@@ -153,8 +153,6 @@ This project is licensed under the MIT License
 
 **Author**: Will Coppedge  
 **Email**: wcoppedge7779@gmail.com  
-**LinkedIn**: [LinkedIn Profile]  
-**Portfolio**: [Portfolio Website]
 
 ---
 
